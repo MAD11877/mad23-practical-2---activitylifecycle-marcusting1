@@ -35,7 +35,7 @@
 23-->C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:13:9-51
 24        <activity
 24-->C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:15:9-17:40
-25            android:name="com.example.myapplication.MainActivity2"
+25            android:name="com.example.myapplication.Main1Activity"
 25-->C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:16:13-42
 26            android:exported="false" />
 26-->C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:17:13-37

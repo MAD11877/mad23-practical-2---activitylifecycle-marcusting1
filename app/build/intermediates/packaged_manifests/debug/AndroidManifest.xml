@@ -22,7 +22,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
-            android:name="com.example.myapplication.MainActivity2"
+            android:name="com.example.myapplication.Main1Activity"
             android:exported="false" />
         <activity
             android:name="com.example.myapplication.MainActivity"

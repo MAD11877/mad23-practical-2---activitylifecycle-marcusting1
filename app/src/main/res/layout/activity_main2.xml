@@ -4,9 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity2">
+    android:layout_marginTop="8dp"
+    tools:context=".Main1Activity">
+
 
     <EditText
+        android:layout_marginTop="8dp"
         android:id="@+id/editTextText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -16,12 +19,13 @@
         android:text="Hello World!"
         android:textAlignment="center"
         android:textColor="#808080"
-        android:textSize="34sp"
-        android:textStyle="normal|bold"
+        android:textSize="36sp"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="5dp"
         tools:layout_editor_absoluteY="306dp" />
 
     <Button
+        android:layout_marginTop="16dp"
         android:id="@+id/button2"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="wrap_content"
@@ -29,8 +33,8 @@
         android:background="#673AB7"
         android:text="MESSAGE"
         android:textColor="#FFFFFF"
-        tools:layout_editor_absoluteX="222dp"
-        tools:layout_editor_absoluteY="365dp" />
+        tools:layout_editor_absoluteX="220dp"
+        tools:layout_editor_absoluteY="453dp" />
 
     <Button
         android:id="@+id/button"
@@ -40,7 +44,27 @@
         android:background="#673AB7"
         android:text="FOLLOW"
         android:textColor="#FFFFFF"
-        tools:layout_editor_absoluteX="93dp"
-        tools:layout_editor_absoluteY="365dp" />
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="453dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:background="#2196F3"
+        android:src="@drawable/ic_launcher_foreground"
+        app:flow_horizontalAlign="center"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="151dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="285dp"
+        android:layout_height="79dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="374dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -133,7 +133,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwma\.gradle\cach
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:13:9-51
 	android:dataExtractionRules
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.myapplication.MainActivity2
+activity#com.example.myapplication.Main1Activity
 ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:17:13-37
