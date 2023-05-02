@@ -130,25 +130,25 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwma\.gradle\cach
 	android:allowBackup
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:13:9-51
+		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:13:9-67
 	android:dataExtractionRules
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.myapplication.Main1Activity
+activity#com.example.myapplication.User
 ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:16:13-42
-activity#com.example.myapplication.MainActivity
+		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:16:13-33
+activity#com.example.myapplication.Main1Activity
 ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:18:9-28:20
 	android:label
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:21:13-45
 	android:exported
 		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:20:13-36
 	android:theme
-		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:22:13-55
+		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:22:13-71
 	android:name
-		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:19:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\wwwma\OneDrive\Desktop\Y2S1\MAD\prac 2\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN

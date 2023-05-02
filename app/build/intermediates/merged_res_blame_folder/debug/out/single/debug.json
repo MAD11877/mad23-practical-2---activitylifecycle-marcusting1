@@ -4,12 +4,12 @@
         "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -44,10 +44,6 @@
         "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\layout\\activity_main2.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-55:/layout_activity_main2.xml.flat",
-        "source": "com.example.myapplication.app-main-57:/layout/activity_main2.xml"
-    },
-    {
         "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -62,6 +58,10 @@
     {
         "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-57:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-57:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\wwwma\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-55:\\mipmap-hdpi_ic_launcher_round.webp.flat",
